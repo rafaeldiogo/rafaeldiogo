@@ -1,6 +1,6 @@
 ### What's up !? Eu sou o Rafael Diogo 👑
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-diogo-a41193155/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaeldiogo08/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eurafaeldiogo/)
 
 ![rafaeldiogo GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaeldiogo&show_icons=true&theme=dark)
