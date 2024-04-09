@@ -1,4 +1,4 @@
-### What's up !? Eu sou o Rafael Diogo 👑
+### Oi, eu sou o Rafael Diogo 👑
 - Bacharel em Ciências e Tecnologia pela UFRN (Universidade Federal do Rio Grande do Norte)
 - Pós-Graduado em Desenvolvimento de Software pelo IMD (Instituto Metrópole Digital)
 
